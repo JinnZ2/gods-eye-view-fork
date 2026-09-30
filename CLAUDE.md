@@ -1,6 +1,8 @@
 # gods-eye-view-fork
 
-A fork of Bilawal Sidhu's God's Eye View, a browser globe over public live data feeds. The code is upstream's; this file is the only local addition.
+> A spy-satellite simulator in your browser — then you realize the sources are public and the data is real.
+
+Source: README.md (upstream)
 
 <!-- clone-refspec-note v1.1 -->
 ## Cloning and pushing
