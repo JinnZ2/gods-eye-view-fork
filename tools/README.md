@@ -1,3 +1,5 @@
+[Read me this way](../READ_ME_THIS_WAY.md)
+
 # Tools
 
 CLI scripts for fetching, rendering, and reprojecting geospatial imagery. All tools read the Google Maps API key from `.env` automatically.
